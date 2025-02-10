@@ -1,0 +1,3 @@
+com/common/data/model/base_bom/commonclasses/AccountsChangedEvent.class
+com/common/data/model/base_bom/commonclasses/LoansChangedEvent.class
+com/common/data/model/base_bom/commonclasses/CardsChangedEvent.class
